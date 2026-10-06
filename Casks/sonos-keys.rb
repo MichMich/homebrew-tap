@@ -7,7 +7,7 @@ cask "sonos-keys" do
   desc "Control Sonos with modified media keys"
   homepage "https://github.com/MichMich/sonos-keys"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Sonos Keys.app"
 
