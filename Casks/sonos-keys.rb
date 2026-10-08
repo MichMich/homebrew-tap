@@ -1,6 +1,6 @@
 cask "sonos-keys" do
-  version "0.4.8"
-  sha256 "1e9e45256fae48871c7cffe5e7c30d6596cd41c6a822d06b403b0125cbabd971"
+  version "0.5.0"
+  sha256 "71eb7677f847b9db364913ea43b29a4841a98e5d14bfa3fc3c1e30ba7fa592e9"
 
   url "https://github.com/MichMich/sonos-keys/releases/download/v#{version}/Sonos-Keys-v#{version}-macOS-universal.zip"
   name "Sonos Keys"
